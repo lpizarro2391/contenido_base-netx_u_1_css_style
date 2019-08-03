@@ -1,5 +1,18 @@
-body{
+body
+{
 	background-color: black;
 	color: white;
 	font-family: arial;
+}
+h1 {
+	font-family: Arial;
+}
+
+a {
+	color: inherit;
+}
+div
+{
+	margin-top: 100px;
+	margin-left: 100px;
 }
